@@ -1,6 +1,6 @@
-# snail-ide-website
-This is a website where you can share your Snail IDE projects with the community.<br />
-Based off of PenguinMod/PenguinMod-Home.<br />
+# batscoding-website
+This is a website where you can share your BatsCoding projects with the community.<br />
+Based off of Snail-IDE/Snail-IDE-Website.<br />
 
 # building instructions
 npm i --force<br />

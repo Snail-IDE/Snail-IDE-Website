@@ -742,7 +742,7 @@
                 </a>
                 <a
                     target="_blank"
-                    href="http://snailwiki.great-site.net/index.php/Main_Page"
+                    href="https://snailide.miraheze.org/wiki/Main_Page"
                 >
                     Wiki
                 </a>

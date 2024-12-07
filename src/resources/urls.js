@@ -65,9 +65,9 @@ export default {
     packager: "/PenguinMod-Packager/",
 
     /**
-     * PenguinMod's unofficial wiki
+     * PenguinMod's official wiki
      */
-    wiki: "https://penguinmod.fandom.com/wiki/Penguinmod",
+    wiki: "https://wiki.penguinmod.com/wiki/Main Page",
 
     /**
      * Snail IDE's Guild. Only visible in Livetests until snail man approves of it.
